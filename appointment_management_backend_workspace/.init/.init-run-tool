@@ -1,0 +1,4 @@
+{
+    "command": "CI=true PORT=<port> HOST=<host> npm run dev",
+    "working_directory": "/home/kavia/workspace/code-generation/connectbook-api-34258-7c3e3bd5/appointment_management_backend_workspace/appointment_management_backend"
+}
